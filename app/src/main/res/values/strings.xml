@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Facebook App Invite Implementation</string>
     <string name="facebook_app_id">345007315914991</string>
+    <string name="fb_login_protocol_scheme">fb345007315914991</string>
 </resources>
